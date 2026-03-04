@@ -1,17 +1,12 @@
 # ppb_meet_1
 
-A new Flutter project.
+Tugas 1 dari pertemuan 1 PPB (D). 
 
-## Getting Started
+## Task
 
-This project is a starting point for a Flutter application.
+Membuat aplikasi Flutter dan mengubah warna dan font dari teks yang ada.
 
-A few resources to get you started if this is your first Flutter project:
+## Changes
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Font : Cascadia Mono
+Color : Red
