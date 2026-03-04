@@ -8,5 +8,6 @@ Membuat aplikasi Flutter dan mengubah warna dan font dari teks yang ada.
 
 ## Changes
 
-Font : Cascadia Mono
-Color : Red
+- Font : Cascadia Mono
+
+- Color : Red
